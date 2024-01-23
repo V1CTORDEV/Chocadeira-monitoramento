@@ -1,0 +1,13 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+#div01{
+    background-color: rgb(255, 157, 0);
+}
+#div02{
+    background-color: rgb(60, 255, 0);
+}
+#div03{
+    background-color: rgb(255, 0, 217);
+}
